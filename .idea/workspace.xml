@@ -1,27 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceed9fa1-95c2-4a06-87c7-33dc46c296fe" name="변경" comment="" />
+    <list default="true" id="ceed9fa1-95c2-4a06-87c7-33dc46c296fe" name="변경" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/nlp_model_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nlp_model_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/Lstm_movie_reviwe.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment/Lstm_movie_reviwe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cnn_spam_classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/cnn_spam_classifier.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="10" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kibag5564-design"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kibag5564-design/nlp_model_project.git",
+    "accountId": "02730ff9-fc9e-414c-ba39-c3c1195168b5"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4,
-  "fromUser": false
-}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.068288546294573" />
+      <entry key="MS500" value="2.256942235617532" />
+      <entry key="S2" value="5.262822177182148" />
+      <entry key="S5" value="7.702610129978617" />
+      <entry key="S10" value="10.095543192817264" />
+      <entry key="S30" value="15.52881058168863" />
+      <entry key="S60" value="18.77720780057639" />
+      <entry key="M2" value="22.295860066088682" />
+      <entry key="M5" value="31.14365516994368" />
+      <entry key="M10" value="53.67998878315298" />
+      <entry key="M15" value="80.55391879343273" />
+      <entry key="M30" value="144.5505387137652" />
+      <entry key="H1" value="218.07237805687703" />
+      <entry key="H2" value="321.09114959263917" />
+      <entry key="H4" value="464.27036627442" />
+      <entry key="D1" value="741.0021024505331" />
+      <entry key="W1" value="816.327245988307" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="3.66668580974542E-49" />
+      <entry key="MS500" value="2.0815044230357579E-10" />
+      <entry key="S2" value="0.005059775393553533" />
+      <entry key="S5" value="0.17697164249177244" />
+      <entry key="S10" value="0.5914579784674021" />
+      <entry key="S30" value="1.3313367068430564" />
+      <entry key="S60" value="1.6560114893333342" />
+      <entry key="M2" value="1.9790641196812306" />
+      <entry key="M5" value="2.6199438345377337" />
+      <entry key="M10" value="3.3876628047756037" />
+      <entry key="M15" value="3.989918869457996" />
+      <entry key="M30" value="5.363118240694841" />
+      <entry key="H1" value="7.7251211328354605" />
+      <entry key="H2" value="11.868199748203951" />
+      <entry key="H4" value="17.443720736678415" />
+      <entry key="D1" value="27.745436435974224" />
+      <entry key="W1" value="30.50108969414653" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0386211803185084" />
+      <entry key="MS500" value="2.240984284826344" />
+      <entry key="S2" value="5.248577516238117" />
+      <entry key="S5" value="7.835573468981549" />
+      <entry key="S10" value="10.620836626877027" />
+      <entry key="S30" value="16.80991420011544" />
+      <entry key="S60" value="20.401757901317648" />
+      <entry key="M2" value="24.256163544000753" />
+      <entry key="M5" value="33.75016875912882" />
+      <entry key="M10" value="57.05181172203183" />
+      <entry key="M15" value="84.52762440138572" />
+      <entry key="M30" value="149.89993323948386" />
+      <entry key="H1" value="225.78592320014045" />
+      <entry key="H2" value="332.94638408861397" />
+      <entry key="H4" value="481.70099655607896" />
+      <entry key="D1" value="768.7430347214178" />
+      <entry key="W1" value="846.8275998179819" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3FeW4AvMRepbcb8xHDjVV1jTNN8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,21 +123,51 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Lstm_movie_reviwe.executor": "Run",
+    "Python.cnn_spam_classifier.executor": "Run",
+    "Python.lstm_imdb_lightning.executor": "Debug",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "team01",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/LLM_workspace/nlp_model_project/assignment",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\LLM_workspace\nlp_model_project\assignment" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\LLM_workspace\nlp_model_project\data" />
+      <recent name="C:\LLM_workspace\nlp_model_project\model" />
+      <recent name="C:\LLM_workspace\nlp_model_project\assignment" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="pip uninstall -y numpy torch torchtext torchvision torchaudio pytorch-lightning torchmetrics" />
+      <command value="pip cache purge" />
+      <command value="pip install -r requirements.txt" />
+    </option>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.25134.203" />
+        <option value="bundled-python-sdk-245168a56dbd-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.25134.203" />
       </set>
     </attachedChunks>
   </component>
@@ -54,8 +178,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1782435823106</updated>
-      <workItem from="1782435824236" duration="2000" />
+      <workItem from="1782435824236" duration="103000" />
+      <workItem from="1782435983471" duration="25744000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="첫 번째 커밋" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/nlp_model_project$lstm_imdb_lightning.coverage" NAME="lstm_imdb_lightning 커버리지 결과" MODIFIED="1782458936022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/nlp_model_project$cnn_spam_classifier.coverage" NAME="cnn_spam_classifier 커버리지 결과" MODIFIED="1782452351906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/nlp_model_project$Lstm_movie_reviwe.coverage" NAME="Lstm_movie_reviwe 커버리지 결과" MODIFIED="1782464092600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignment" />
   </component>
 </project>
